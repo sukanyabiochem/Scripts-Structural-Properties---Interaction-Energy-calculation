@@ -1,1 +1,1 @@
-# Scripts-Structural-Properties---Interaction-Energy-calculation
+# Scripts-Interaction-Energy-calculation
